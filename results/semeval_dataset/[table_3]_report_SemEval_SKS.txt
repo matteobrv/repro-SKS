@@ -1,0 +1,88 @@
+ITERATION: 1 | BEST REPORT OUT OF 15 EPOCHS
+              precision    recall  f1-score      support
+0              0.509195  0.697638  0.588704  1270.000000
+1              0.695238  0.506358  0.585953  1730.000000
+accuracy       0.587333  0.587333  0.587333     0.587333
+macro avg      0.602217  0.601998  0.587329  3000.000000
+weighted avg   0.616480  0.587333  0.587118  3000.000000
+
+ITERATION: 2 | BEST REPORT OUT OF 15 EPOCHS
+              precision    recall  f1-score   support
+0              0.525287  0.696646  0.598952  1312.000
+1              0.684127  0.510664  0.584803  1688.000
+accuracy       0.592000  0.592000  0.592000     0.592
+macro avg      0.604707  0.603655  0.591877  3000.000
+weighted avg   0.614661  0.592000  0.590991  3000.000
+
+ITERATION: 3 | BEST REPORT OUT OF 15 EPOCHS
+              precision    recall  f1-score   support
+0              0.534483  0.698198  0.605469  1332.000
+1              0.680952  0.514388  0.586066  1668.000
+accuracy       0.596000  0.596000  0.596000     0.596
+macro avg      0.607718  0.606293  0.595767  3000.000
+weighted avg   0.615920  0.596000  0.594681  3000.000
+
+ITERATION: 4 | BEST REPORT OUT OF 15 EPOCHS
+              precision    recall  f1-score   support
+0              0.534483  0.698198  0.605469  1332.000
+1              0.680952  0.514388  0.586066  1668.000
+accuracy       0.596000  0.596000  0.596000     0.596
+macro avg      0.607718  0.606293  0.595767  3000.000
+weighted avg   0.615920  0.596000  0.594681  3000.000
+
+ITERATION: 5 | BEST REPORT OUT OF 15 EPOCHS
+              precision    recall  f1-score      support
+0              0.480460  0.749776  0.585639  1115.000000
+1              0.778571  0.520424  0.623847  1885.000000
+accuracy       0.605667  0.605667  0.605667     0.605667
+macro avg      0.629516  0.635100  0.604743  3000.000000
+weighted avg   0.667773  0.605667  0.609647  3000.000000
+
+ITERATION: 6 | BEST REPORT OUT OF 15 EPOCHS
+              precision    recall  f1-score      support
+0              0.480460  0.749776  0.585639  1115.000000
+1              0.778571  0.520424  0.623847  1885.000000
+accuracy       0.605667  0.605667  0.605667     0.605667
+macro avg      0.629516  0.635100  0.604743  3000.000000
+weighted avg   0.667773  0.605667  0.609647  3000.000000
+
+ITERATION: 7 | BEST REPORT OUT OF 15 EPOCHS
+              precision    recall  f1-score      support
+0              0.558046  0.713446  0.626250  1361.000000
+1              0.690476  0.530811  0.600207  1639.000000
+accuracy       0.613667  0.613667  0.613667     0.613667
+macro avg      0.624261  0.622129  0.613228  3000.000000
+weighted avg   0.630397  0.613667  0.612022  3000.000000
+
+ITERATION: 8 | BEST REPORT OUT OF 15 EPOCHS
+              precision    recall  f1-score   support
+0              0.641954  0.704288  0.671678  1586.000
+1              0.627778  0.559406  0.591623  1414.000
+accuracy       0.636000  0.636000  0.636000     0.636
+macro avg      0.634866  0.631847  0.631650  3000.000
+weighted avg   0.635272  0.636000  0.633945  3000.000
+
+ITERATION: 9 | BEST REPORT OUT OF 15 EPOCHS
+              precision    recall  f1-score   support
+0              0.641954  0.704288  0.671678  1586.000
+1              0.627778  0.559406  0.591623  1414.000
+accuracy       0.636000  0.636000  0.636000     0.636
+macro avg      0.634866  0.631847  0.631650  3000.000
+weighted avg   0.635272  0.636000  0.633945  3000.000
+
+ITERATION: 10 | BEST REPORT OUT OF 15 EPOCHS
+              precision    recall  f1-score   support
+0              0.641954  0.704288  0.671678  1586.000
+1              0.627778  0.559406  0.591623  1414.000
+accuracy       0.636000  0.636000  0.636000     0.636
+macro avg      0.634866  0.631847  0.631650  3000.000
+weighted avg   0.635272  0.636000  0.633945  3000.000
+
+
+AVERAGE AND STD. DEVIATION
+
+               average    std. deviation
+-----------  ---------  ----------------
+accuracy      0.610433         0.0181849
+weighted f1   0.610062         0.0175463
+macro f1      0.608841         0.01645

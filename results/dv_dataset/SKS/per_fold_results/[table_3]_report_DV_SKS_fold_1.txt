@@ -1,0 +1,88 @@
+ITERATION: 1 | BEST REPORT OUT OF 15 EPOCHS
+              precision    recall  f1-score      support
+0              0.645995  0.396197  0.491159   631.000000
+1              0.916630  0.968331  0.941772  4326.000000
+accuracy       0.895501  0.895501  0.895501     0.895501
+macro avg      0.781313  0.682264  0.716465  4957.000000
+weighted avg   0.882180  0.895501  0.884411  4957.000000
+
+ITERATION: 2 | BEST REPORT OUT OF 15 EPOCHS
+              precision    recall  f1-score      support
+0              0.501292  0.492386  0.496799   394.000000
+1              0.956236  0.957703  0.956969  4563.000000
+accuracy       0.920718  0.920718  0.920718     0.920718
+macro avg      0.728764  0.725045  0.726884  4957.000000
+weighted avg   0.920076  0.920718  0.920393  4957.000000
+
+ITERATION: 3 | BEST REPORT OUT OF 15 EPOCHS
+              precision    recall  f1-score      support
+0              0.485788  0.515068  0.500000   365.000000
+1              0.961269  0.956664  0.958961  4592.000000
+accuracy       0.924148  0.924148  0.924148     0.924148
+macro avg      0.723529  0.735866  0.729480  4957.000000
+weighted avg   0.926258  0.924148  0.925166  4957.000000
+
+ITERATION: 4 | BEST REPORT OUT OF 15 EPOCHS
+              precision    recall  f1-score     support
+0              0.614987  0.494802  0.548387   481.00000
+1              0.946827  0.966711  0.956666  4476.00000
+accuracy       0.920920  0.920920  0.920920     0.92092
+macro avg      0.780907  0.730757  0.752527  4957.00000
+weighted avg   0.914627  0.920920  0.917049  4957.00000
+
+ITERATION: 5 | BEST REPORT OUT OF 15 EPOCHS
+              precision    recall  f1-score     support
+0              0.614987  0.494802  0.548387   481.00000
+1              0.946827  0.966711  0.956666  4476.00000
+accuracy       0.920920  0.920920  0.920920     0.92092
+macro avg      0.780907  0.730757  0.752527  4957.00000
+weighted avg   0.914627  0.920920  0.917049  4957.00000
+
+ITERATION: 6 | BEST REPORT OUT OF 15 EPOCHS
+              precision    recall  f1-score     support
+0              0.614987  0.494802  0.548387   481.00000
+1              0.946827  0.966711  0.956666  4476.00000
+accuracy       0.920920  0.920920  0.920920     0.92092
+macro avg      0.780907  0.730757  0.752527  4957.00000
+weighted avg   0.914627  0.920920  0.917049  4957.00000
+
+ITERATION: 7 | BEST REPORT OUT OF 15 EPOCHS
+              precision    recall  f1-score     support
+0              0.614987  0.494802  0.548387   481.00000
+1              0.946827  0.966711  0.956666  4476.00000
+accuracy       0.920920  0.920920  0.920920     0.92092
+macro avg      0.780907  0.730757  0.752527  4957.00000
+weighted avg   0.914627  0.920920  0.917049  4957.00000
+
+ITERATION: 8 | BEST REPORT OUT OF 15 EPOCHS
+              precision    recall  f1-score     support
+0              0.614987  0.494802  0.548387   481.00000
+1              0.946827  0.966711  0.956666  4476.00000
+accuracy       0.920920  0.920920  0.920920     0.92092
+macro avg      0.780907  0.730757  0.752527  4957.00000
+weighted avg   0.914627  0.920920  0.917049  4957.00000
+
+ITERATION: 9 | BEST REPORT OUT OF 15 EPOCHS
+              precision    recall  f1-score     support
+0              0.614987  0.494802  0.548387   481.00000
+1              0.946827  0.966711  0.956666  4476.00000
+accuracy       0.920920  0.920920  0.920920     0.92092
+macro avg      0.780907  0.730757  0.752527  4957.00000
+weighted avg   0.914627  0.920920  0.917049  4957.00000
+
+ITERATION: 10 | BEST REPORT OUT OF 15 EPOCHS
+              precision    recall  f1-score     support
+0              0.614987  0.494802  0.548387   481.00000
+1              0.946827  0.966711  0.956666  4476.00000
+accuracy       0.920920  0.920920  0.920920     0.92092
+macro avg      0.780907  0.730757  0.752527  4957.00000
+weighted avg   0.914627  0.920920  0.917049  4957.00000
+
+
+AVERAGE AND STD. DEVIATION
+
+               average    std. deviation
+-----------  ---------  ----------------
+accuracy      0.918681        0.00778731
+weighted f1   0.914931        0.010476
+macro f1      0.744052        0.0133072
