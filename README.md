@@ -5,6 +5,7 @@ This repository hosts the code, data and results of our reproducibility experime
 - [Dependencies](#dependencies)
 - [Data](#data)
 - [Training](#training)
+- [Results](#results)
 
 ## Dependencies
 This project requires Python >= 3.8.10. After cloning the repository and creating a dedicated environment, all dependencies can be installed executing `pip install -r requirements.txt`
@@ -34,3 +35,6 @@ To reproduce our results for the three models `SKS`, `-s` and `-sc` on both the 
 - `DV_run_SKS.sh`: trains the `SKS` model on the 5-folds DV data-set using both sentiment features and _category embeddings_;
 - `DV_run_s.sh`: trains the `SKS` model on the 5-folds DV data-set ablating sentiment features;
 - `DV_run_sc.sh`: trains the `SKS` model on the 5-folds DV data-set ablating sentiment features and _category embeddings_.
+
+## Results
+In the results folder we include the intermediate findings obtained on each model for both data-sets, the output of the grid search we ran to tune a subset of the hyperparameters (learning rate, batch size, dropout rate) and a summary of our results `resutls.txt`.
