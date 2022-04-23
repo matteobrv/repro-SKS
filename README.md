@@ -38,3 +38,6 @@ To reproduce our results for the three models `SKS`, `-s` and `-sc` on both the 
 
 ## Results
 In the results folder we include the intermediate findings obtained on each model for both data-sets, the output of the grid search we ran to tune a subset of the hyperparameters (learning rate, batch size, dropout rate) and a summary of our results `resutls.txt`.
+
+## License
+The code and the data in this repository are provided under an MIT license. For information about the license under which the original code-base we reused is distributed, please consult the [original repository](https://github.com/1783696285/SKS).
