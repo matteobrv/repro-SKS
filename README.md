@@ -1,5 +1,7 @@
 # [Re] Hate Speech Detection based on Sentiment Knowledge Sharing
 
+[![DOI](https://zenodo.org/badge/438386237.svg)](https://zenodo.org/badge/latestdoi/438386237)
+
 This repository hosts the code, data and results of our reproducibility experiment for the paper "_Hate Speech Detection based on Sentiment Knowledge Sharing_" by Zhou et al. (2021), as part of the [ML Reproducibility Challenge 2021](https://paperswithcode.com/rc2021).
 
 ## Table of Contents
